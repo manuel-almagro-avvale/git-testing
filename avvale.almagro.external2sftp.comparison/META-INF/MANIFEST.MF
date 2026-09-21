@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Comparison - SFTP vs. DataStore
 Bundle-SymbolicName: avvale.almagro.external2sftp.comparison; singleton:
  =true
-Bundle-Version: 1.0.5
+Bundle-Version: 1.0.6
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
