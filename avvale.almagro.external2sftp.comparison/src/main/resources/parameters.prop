@@ -1,0 +1,9 @@
+#
+#Mon Sep 21 14:08:36 UTC 2026
+Address=sftp.almag.ro\:2222
+AlertingPeriod=170
+CredentialAlias=SFTP_ALMAGRO
+Directory=/manolo/TempData
+ExpirationPeriod=180
+Filename=TempData.csv
+MaxIter=10
