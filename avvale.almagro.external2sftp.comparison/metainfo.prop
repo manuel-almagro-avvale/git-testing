@@ -1,5 +1,5 @@
 #Store metainfo properties
-#Mon Sep 21 14:30:55 UTC 2026
+#Tue Sep 22 08:44:18 UTC 2026
 description=Dummy process to compare speed, reliability and cost of storing temp data in a DataStore vs. SFTP
 source=External
 target=SFTP
